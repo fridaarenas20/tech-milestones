@@ -1,0 +1,122 @@
+/* CSS Document */
+
+html {
+
+	background-color: pink;
+}
+
+
+/** Style Class **/
+
+.header1 {
+
+	color: white;
+	text-align: center;
+	font-family: 'bangers',cursive;
+	font-size: 250%;
+
+}
+
+.Macintosh {
+
+	color: white;
+	text-align: center;
+	font-family: 'prata' ,serif;
+	font-size: large;
+
+}
+
+.Macintosh p {
+
+	text-align: left;
+	font-family: 'prata',serif;
+	font-size: 105%
+}
+
+.Windows {
+
+	color: white;
+	text-align: center;
+	font-family: 'prata',serif;
+	font-size: large;
+}
+
+.Windows p {
+
+	text-align: left;
+	font-size: 105%;
+
+
+}
+
+.world_wide {
+
+	color: white;
+	text-align: center;
+	font-family: 'libre baskerville',serif;
+	font-size: large;
+
+}
+
+.world_wide p {
+
+	text-align: left;
+	font-size: 105%;
+
+}
+
+.Gaming {
+
+	color: white;
+	text-align: center;
+	font-family: 'libre baskerville',serif;
+	font-size: large;
+
+}
+
+.Gaming p {
+
+	text-align: left;
+	font-size: 105%;
+
+}
+
+.Internet {
+
+	color: white;
+	text-align: center;
+	font-family: 'noto sans tc', sans-serif;
+	font-size: large;
+}
+
+.Internet p {
+
+	text-align: left;
+	font-size: 105%;
+
+}
+
+
+.Smarthome {
+
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: large;
+}
+
+.Smarthome p {
+
+	text-align: left;
+	font-size: 105%;
+
+}
+
+
+footer {
+
+	color: white;
+	text-align: center;
+	font-size: small;
+
+}
